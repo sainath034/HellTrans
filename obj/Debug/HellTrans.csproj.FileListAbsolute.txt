@@ -1,0 +1,14 @@
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\bin\Debug\HellTrans.dll
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\bin\Debug\HellTrans.pdb
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\bin\Debug\HellTrans.HellTrans.apk
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\bin\Debug\HellTrans.HellTrans-Signed.apk
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\HellTrans.dll
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\HellTrans.pdb
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\android\bin\HellTrans.HellTrans.apk
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\res\layout\main.xml
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\res\values\strings.xml
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\res\drawable\icon.png
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\R.cs.flag
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\uploadflags.txt
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\bin\Debug\HellTrans.dll.mdb
+C:\Users\Sainath\documents\visual studio 2017\Projects\HellTrans\HellTrans\obj\Debug\android\assets\HellTrans.dll.mdb
